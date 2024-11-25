@@ -1,0 +1,41 @@
+.a{
+border-radius: 5px 0 0 5px;
+}
+.b{
+border-radius: 0 5px 5px 0;
+}
+.c{
+    background:#4570B6 !important;
+}
+.list-group-item img {
+ width: 30px;
+ padding-right: 10px;
+}
+.box{
+    height: 270px;
+    overflow: hidden;
+    border-radius: 10px;
+}
+.box-c , .box img{
+    transition: 0.9s;
+}
+.box:hover .box-c{
+    transform: translateY(-90px);
+}
+.box:hover img{
+    transform: scale(1.2);
+}
+.p{
+    background: #4570b610;
+    padding:20px;
+}
+.q{
+    background: #384447;
+}
+.r{
+    background: #39474F;
+}
+.g{
+    padding: 11px;
+    text-align: left;
+}
